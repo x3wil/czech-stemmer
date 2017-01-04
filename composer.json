@@ -1,0 +1,18 @@
+{
+    "name": "x3wil/czech-stemmer",
+    "description": "Port of stemmer for Czech language",
+    "license": "MIT",
+    "keywords": ["czech", "stemmer"],
+    "authors": [
+        {
+            "name": "Patrik Chotěnovský",
+            "email": "chotenovsky.patrik@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"x3wil\\": "src/"}
+    },
+    "require": {
+        "php": ">=7.0.0"
+    }
+}
